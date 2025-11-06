@@ -5,9 +5,3 @@ baseurl: ""
 
 theme: "minimal-mistakes-jekyll" 
 
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE.md
