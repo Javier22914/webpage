@@ -5,9 +5,11 @@ description: Página creada con jekyll y GitHub Pages
 # _config.yml
 theme: "minimal-mistakes-jekyll"
 
-title: "Mi sitio web"
-description: "Este es un sitio de prueba con el tema Minimal Mistakes"
-url: "https://nombredeusuario.github.io"
-baseurl: ""  # Si tienes un subdirectorio, agrega la ruta aquí
+theme: "minimal-mistakes-jekyll"
 
-# Otras configuraciones necesarias para tu sitio...
+# Opciones adicionales
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
