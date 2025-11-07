@@ -1,7 +1,6 @@
 ---
+title: "Contacto"
 layout: single
-title: Página de contacto
-permalink: /contacto/
+permalink: /contact/
+author_profile: true
 ---
-
-Contenido de la página Contacto.
