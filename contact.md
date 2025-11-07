@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
 layout: single
-permalink: /contact/
+permalink: /acercade/
 ---
 
 Página de contacto
