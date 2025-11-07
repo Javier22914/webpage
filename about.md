@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acerca de
-permalink: /contact/
+permalink: /acercade/
 ---
 
 Soy un alumno de informática que está 
