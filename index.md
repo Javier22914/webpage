@@ -1,10 +1,10 @@
 ---
 layout: splash
 title: inicio
-header
+header:
  overlay_color:_"000"
- _overlay_filter:_"0"
-_overlay_image: "0"
+  overlay_filter:_"0"
+   overlay_image: "0"
 ---
 
 # ¡Bienvenido a mi sitio web: JAVIER BLAYA GONZÁLEZ:
