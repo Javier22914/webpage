@@ -1,6 +1,6 @@
 ---
 title: "Contacto"
-layout: single
+layout: splash
 permalink: /acercade/
 ---
 
